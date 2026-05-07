@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PLJOGOS.aternos.me:58334",
+    "ip": "PLJOGOS.aternos.me",
     "port": 58334,
     "version": "",
     "try-creative": false
